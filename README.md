@@ -84,7 +84,7 @@ mAP
 | - | {1.3, 0.9, 0.8, 0.7} | 77.7 |
 | - | {1.3, 1.1, 0.9, 0.7} | 78.0 |
 
-SSD-Zoomed: https://drive.google.com/file/d/1xEcdMGgmPNyopeNHEhTWQAbjFhl1LHAY/view?usp=sharing
+SSD-Zoomed: https://drive.google.com/file/d/1immZILO3aQVaMqvlsivyCj71lSbuBrlw/view?usp=sharing
 
 ## References
 
