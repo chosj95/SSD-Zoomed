@@ -1,7 +1,4 @@
 # SSD-Zoomed
-This repository provides the PyTorch implementation for paper: [**Learning an Object Detector Using Zoomed Object Regions**](https://ieeexplore.ieee.org/abstract/document/8706381). 
-
-
 
 ## Installation
 - Install [PyTorch](http://pytorch.org/) by selecting your environment on the website and running the appropriate command.
